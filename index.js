@@ -17,7 +17,7 @@ const apivhtear = 'Apikey vhtear';
 const apibarbar = 'Apikey mhankbarbar';
 const BotName = 'Rendikur'; 
 const instagram = 'Rendi_kurniawan02'; 
-const aktif = 'Kapan bot aktif';
+const aktif = 'Saat author lagi gabut';
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:rendi kurniawa\n' // Nama kamu

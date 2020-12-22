@@ -20,7 +20,7 @@ Download aplikasi termux disini [DOWNLOAD](https://play.google.com/store/apps/de
 * Apikey vhtear
 * Kontak whatsapp owner
 
-Custom di sini [SETTING](https://github.com/mrfzvx12/Arelbot/blob/master/index.js/#L13)
+Custom 
 
 
 ## Penginstalan
@@ -160,9 +160,9 @@ Terakhir scan kode QR
 | Owner|✅|
 
 ## Contacts
-* [Instagram](https://www.instagram.com/mrf.zvx/)
-* [Facebook](https://www.facebook.com/profile.php?id=100028409167054)
-* My whatsapp bot [Arel Bot](https://wa.me/6282223014661)
+
+
+* My whatsapp bot [rendi kurniawan](https://wa.me/6283183900270)
 
 
 ## Terimakasih untuk

@@ -35,7 +35,7 @@ Jika pertama kali membuka termux lakukan perintah berikut :
 ```
 Lalu clone repo
 ```bash
-> git clone https://github.com/mrfzvx12/Arelbot
+> git clone https://github.com/aimbot12-wq/rendi16
 > cd Arelbot
 ```
 Lanjutkan dengan

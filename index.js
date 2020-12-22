@@ -1136,7 +1136,7 @@ axios.get(`https://arugaz.herokuapp.com/api/artinama?nama=${teks}`).then((res) =
     conn.sendMessage(id, hasil ,MessageType.text, { quoted: m } );
 })
 }
-//simsimi
+//rendibot
 if (text.includes('.Bot')){
 conn.sendMessage(id, 'Silakan ulangi command dengan huruf kecil',MessageType.text, { quoted: m } );
 }
